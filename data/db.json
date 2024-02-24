@@ -1,0 +1,47 @@
+{
+  "patient": [
+    {
+      "id": "1",
+      "nom": "abdelleh",
+      "prenom": "ouladali",
+      "cin": "SH324",
+      "sex": "homme",
+      "list": []
+    },
+    {
+      "id": "06c3",
+      "nom": "ouladali",
+      "prenom": "",
+      "cin": "",
+      "sex": "femme"
+    },
+    {
+      "id": "2329",
+      "nom": "abidar",
+      "prenom": "najla",
+      "cin": "sh1232",
+      "sex": "femme"
+    },
+    {
+      "id": "9dbf",
+      "nom": "ouladali",
+      "prenom": "abdeleh",
+      "cin": "sh786",
+      "sex": "homme"
+    },
+    {
+      "id": "a6ac",
+      "nom": "ouladali",
+      "prenom": "abdeleh",
+      "cin": "eyz",
+      "sex": "homme"
+    },
+    {
+      "id": "e9de",
+      "nom": "ouladali",
+      "prenom": "abdeleh",
+      "cin": "erer",
+      "sex": "homme"
+    }
+  ]
+}
